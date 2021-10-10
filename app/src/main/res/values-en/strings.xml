@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MinhaAnotacoes</string>
+
+    <string name="txtNome">Notes</string>
+    <string name="txtCriarAnotacao">Create Annotation</string>
+    <string name="txtAtualizarAnotacao">Update Annotation</string>
+    <string name="txtTitulo">Title</string>
+    <string name="txtConteudo">Content</string>
+    <string name="txtCriar">Create</string>
+    <string name="txtCancelar">Cancel</string>
+    <string name="txtGravar">Save</string>
+    <string name="txtExcluir">Delete</string>
+    <string name="txtId">ID</string>
+
+
+</resources>
